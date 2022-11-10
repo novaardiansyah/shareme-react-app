@@ -1,0 +1,14 @@
+{
+  "related-information": {
+    "Youtube": {
+      "url": "https://youtu.be/4mOkFXyxfsU",
+      "channel": "JavaScript Mastery"
+    }
+  },
+  "search-information": [
+    {
+      "title": "Install the package with the exact same version",
+      "command": "npm install --legacy-peer-deps"
+    }
+  ]
+}
